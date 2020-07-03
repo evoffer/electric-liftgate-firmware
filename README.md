@@ -2,8 +2,10 @@
 
 ## Model S Electric Frunk (v2)
 ```
-Version: 295 (Pre-facelift AWD / Facelift) / 306 (Pre-facelift RWD)
-Last Update: 2020-06-17
+Version:
+- 361 (Pre-facelift AWD / Facelift)
+- 360 (Pre-facelift RWD)
+Last Update: 2020-07-03
 ```
 
 ## Model X Electric Frunk (v2)
@@ -14,14 +16,18 @@ Last Update: 2020-06-17
 
 ## Model 3 Electric Frunk (v2)
 ```
-Version: 330 (Without Touch Screen Close) / 337 (With Touch Screen Close)
-Last Update: 2020-06-17
+Version:
+- 296A (Without Touch Screen Close - Box v17x3)
+- 330A3 (With Touch Screen Close - Box v17x3)
+- 337 (Without Touch Screen Close - Box v17x4)
+- 337B (With Touch Screen Close - Box v17x4)
+Last Update: 2020-07-03
 ```
 
 ## Model 3 Electric Tailgate
 ```
-Version: 305 (v1) / 321 (v2) / 359 (Mark 2.5)
-Last Update: 2020-06-17
+Version: 263/305 (v1) / 321 (v2) / 359 (MARK 2.5)
+Last Update: 2020-07-03
 ```
 
 ## Software Update
