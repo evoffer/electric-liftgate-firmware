@@ -14,19 +14,24 @@ Version: 293A
 Last Update: 2020-06-17
 ```
 
-## Model 3 Electric Frunk (v2)
+## Model 3 Electric Frunk
 ```
 Version:
-- 296A (Without Touch Screen Close - Box v17x3)
-- 330A3 (With Touch Screen Close - Box v17x3)
-- 337 (Without Touch Screen Close - Box v17x4)
-- 337B (With Touch Screen Close - Box v17x4)
-Last Update: 2020-07-03
+- 296A (v2 Box v17x3 - Without Touch Screen Close)
+- 330A3 (v2 Box v17x3 - With Touch Screen Close)
+- 337 (v2 Box v17x4 - Without Touch Screen Close)
+- 337B (v2 Box v17x4 - With Touch Screen Close)
+- F06A (MARK 3.0 - Without Touch Screen Close)
+- F07A (MARK 3.0 - With Touch Screen Close)
+Last Update: 2020-07-22
 ```
 
 ## Model 3 Electric Tailgate
 ```
-Version: 263/305 (v1) / 321 (v2) / 359 (MARK 2.5)
+Version:
+- 263/305 (v1)
+- 321 (v2)
+- 359 (MARK 2.5)
 Last Update: 2020-07-03
 ```
 
