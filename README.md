@@ -18,7 +18,7 @@ Last Update: 2020-06-17
 ```
 Version:
 - 296A (v2 Box v17x3 - Without Touch Screen Close)
-- 330A3 (v2 Box v17x3 - With Touch Screen Close)
+- 330A3 (v2 Box v17x3 - With Touch Screen Close) *Wire Mod is needed
 - 337 (v2 Box v17x4 - Without Touch Screen Close)
 - 337B (v2 Box v17x4 - With Touch Screen Close)
 - F06A (MARK 3.0 - Without Touch Screen Close)
