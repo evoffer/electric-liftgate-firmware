@@ -7,7 +7,7 @@ Version:
 - 360 (v2 Box v17x3 Pre-facelift RWD)
 - F08 (MARK 3.0 Pre-facelift AWD / Facelift)
 - F11 (MARK 3.0 Pre-facelift RWD)
-Last Update: 2020-09-01
+Last Update: 2020-09-05
 ```
 
 ## Model X Electric Frunk
@@ -15,7 +15,7 @@ Last Update: 2020-09-01
 Version:
 - 293A (v2 Box v17x3)
 - F09 (MARK 3.0)
-Last Update: 2020-09-01
+Last Update: 2020-09-05
 ```
 
 ## Model 3 Electric Frunk
