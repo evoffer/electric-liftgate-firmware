@@ -39,6 +39,20 @@ Version:
 Last Update: 2020-07-03
 ```
 
+## Model Y Electric Frunk
+
+```
+
+Version:
+
+
+
+- F132 (MARK 3.0)
+
+Last Update: 2020-09-26
+
+```
+
 ## Software Update
 ### Step 1 - Preparing Memory Card
 Prepare a microSD with 32GB or below capacity.
