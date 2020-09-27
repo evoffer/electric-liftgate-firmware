@@ -44,7 +44,6 @@ Last Update: 2020-07-03
 Version:
 - F132 (MARK 3.0)
 Update: 2020-09-26
-
 ```
 
 ## Software Update
