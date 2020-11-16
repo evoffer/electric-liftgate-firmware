@@ -21,13 +21,13 @@ Last Update: 2020-09-05
 ## Model 3 Electric Frunk
 ```
 Version:
-- 296A (v2 Box v17x3 - Without Touch Screen Close)
-- 330A3 (v2 Box v17x3 - With Touch Screen Close) *Wire Mod is needed
+- 330 (v2 Box v17x3 - Without Touch Screen Close)
+- 337A (v2 Box v17x3 - With Touch Screen Close) *Wire Mod is needed
 - 337 (v2 Box v17x4 - Without Touch Screen Close)
 - 337B (v2 Box v17x4 - With Touch Screen Close)
 - F12A (MARK 3.0 - Without Touch Screen Close)
 - F12 (MARK 3.0 - With Touch Screen Close)
-Last Update: 2020-09-01
+Last Update: 2020-11-16
 ```
 
 ## Model 3 Electric Tailgate
@@ -35,8 +35,8 @@ Last Update: 2020-09-01
 Version:
 - 263/305 (v1)
 - 321 (v2)
-- 359 (MARK 2.5)
-Last Update: 2020-07-03
+- 409 (MARK 2.5)
+Last Update: 2020-11-16
 ```
 
 ## Model Y Electric Frunk
@@ -48,7 +48,7 @@ Update: 2020-09-26
 
 ## Software Update
 ### Step 1 - Preparing Memory Card
-Prepare a microSD with 32GB or below capacity.
+Prepare a microSD (32GB or below capacity is preferred).
 Make sure it is in FAT32 format.
 
 ### Step 2 - Getting the Update File
