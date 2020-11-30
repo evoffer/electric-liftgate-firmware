@@ -30,11 +30,18 @@ Version:
 Last Update: 2020-11-16
 ```
 
+## Model S Electric Tailgate
+```
+Version:
+- 189 (v2)
+Last Update: 2020-11-30
+```
+
 ## Model 3 Electric Tailgate
 ```
 Version:
 - 263/305 (v1)
-- 321 (v2)
+- 298/321 (v2)
 - 409 (MARK 2.5)
 Last Update: 2020-11-16
 ```
@@ -43,7 +50,8 @@ Last Update: 2020-11-16
 ```
 Version:
 - F132 (MARK 3.0)
-Update: 2020-09-26
+- F137 (MARK 4.0)
+Update: 2020-11-30
 ```
 
 ## Software Update
