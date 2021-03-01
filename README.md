@@ -52,8 +52,9 @@ Last Update: 2020-11-30
 Version:
 - 263/305 (v1)
 - 298/321 (v2)
-- 409 (MARK 2.5)
-Last Update: 2020-11-16
+- 465 (MARK 2.5 - Brake to Close)
+- 465S (MARK 2.5 - Front Seats Occupied to Close)
+Last Update: 2021-03-01
 ```
 
 ## Software Update
