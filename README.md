@@ -7,7 +7,9 @@ Version:
 - 360 (v2 Pre-facelift RWD)
 - F18 (MARK 3.0 Pre-facelift AWD / Facelift)
 - F11 (MARK 3.0 Pre-facelift RWD)
-Last Update: 2021-01-04
+- F22 (MARK 3.1 Pre-facelift AWD / Facelift)
+- F23 (MARK 3.1 Pre-facelift RWD)
+Last Update: 2021-04-15
 ```
 
 ## Model X Electric Frunk
@@ -15,7 +17,8 @@ Last Update: 2021-01-04
 Version:
 - 293A (v2)
 - F17 (MARK 3.0)
-Last Update: 2021-01-04
+- F21 (MARK 3.1)
+Last Update: 2021-04-15
 ```
 
 ## Model 3 Electric Frunk
@@ -26,18 +29,20 @@ Version:
 - 337 (v2 Pre-facelift Box v17x4 - Without Touch Screen Close)
 - 337B (v2 Pre-facelift Box v17x4 - With Touch Screen Close)
 - F12A (MARK 3.0 Pre-facelift - Without Touch Screen Close)
-- F12 (MARK 3.0 Pre-facelift - With Touch Screen Close)
-- F142 (MARK 4.0 Facelift)
-Last Update: 2021-01-04
+- F14i (MARK 3.0 Pre-facelift - With Touch Screen Close)
+- F24i (MARK 3.1 Pre-facelift - With Touch Screen Close)
+- F16i (MARK 4.0 Facelift)
+- F25i (MARK 4.1 Facelift)
+Last Update: 2021-04-15
 ```
 
 
 ## Model Y Electric Frunk
 ```
 Version:
-- F132 (MARK 3.0)
-- F137 (MARK 4.0)
-Update: 2020-11-30
+- F15i (MARK 3.0 / 4.0)
+- F20i (MARK 4.1)
+Last Update: 2021-04-15
 ```
 
 ## Model S Electric Tailgate
