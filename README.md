@@ -1,5 +1,7 @@
 # Electric Liftgate Firmware
 
+Please contact Tech Support if you are not sure which firmware you should flash.
+
 ## Model S Electric Frunk
 ```
 Version:
