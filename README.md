@@ -59,7 +59,7 @@ Last Update: 2020-11-30
 Version:
 - 263/305 (v1)
 - 298/321 (v2)
-- 50 (MARK 2.5)
+- 501 (MARK 2.5)
 Last Update: 2021-06-01
 ```
 
