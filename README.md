@@ -2,15 +2,21 @@
 
 Please contact Tech Support if you are not sure which firmware you should flash.
 
-## Model S Electric Frunk
+## Model S Electric Frunk (2012-2016/03 RWD)
 ```
 Version:
-- 361 (v2 Pre-facelift AWD / Facelift)
-- 360 (v2 Pre-facelift RWD)
-- F18 (MARK 3.0 Pre-facelift AWD / Facelift)
-- F11 (MARK 3.0 Pre-facelift RWD)
-- F22 (MARK 3.1 Pre-facelift AWD / Facelift)
-- F23 (MARK 3.1 Pre-facelift RWD)
+- 360 (v2)
+- F11 (MARK 3.0)
+- F23 (MARK 3.1)
+Last Update: 2021-04-15
+```
+
+## Model S Electric Frunk (2012-2016/03 AWD or 2016/04-2021/01)
+```
+Version:
+- 361 (v2)
+- F18 (MARK 3.0)
+- F22 (MARK 3.1)
 Last Update: 2021-04-15
 ```
 
@@ -23,18 +29,22 @@ Version:
 Last Update: 2021-04-15
 ```
 
-## Model 3 Electric Frunk
+## Model 3 Electric Frunk (2018-2020/09)
 ```
 Version:
-- 330 (v2 Pre-facelift Box v17x3 - Without Touch Screen Close)
-- 337A (v2 Pre-facelift Box v17x3 - With Touch Screen Close) *Wire Mod is needed
-- 337 (v2 Pre-facelift Box v17x4 - Without Touch Screen Close)
-- 337B (v2 Pre-facelift Box v17x4 - With Touch Screen Close)
-- F12A (MARK 3.0 Pre-facelift - Without Touch Screen Close)
-- F14i (MARK 3.0 Pre-facelift - With Touch Screen Close)
-- F24i (MARK 3.1 Pre-facelift - With Touch Screen Close)
-- F16i (MARK 4.0 Facelift)
-- F25i (MARK 4.1 Facelift)
+- 330 (v2 Box v17x3 - Without Touch Screen Close)
+- 337A (v2 Box v17x3 - With Touch Screen Close) *Wire Mod is needed
+- 337 (v2 Box v17x4)
+- F14i (MARK 3.0)
+- F24i (MARK 3.1)
+Last Update: 2021-04-15
+```
+
+## Model 3 Electric Frunk (2020/10-2021/06)
+```
+Version:
+- F16i (MARK 4.0)
+- F25i (MARK 4.1)
 Last Update: 2021-04-15
 ```
 
@@ -43,8 +53,8 @@ Last Update: 2021-04-15
 ```
 Version:
 - F15i (MARK 3.0 / 4.0)
-- F20i (MARK 4.1)
-Last Update: 2021-04-15
+- F28 (MARK 4.1)
+Last Update: 2021-08-23
 ```
 
 ## Model S Electric Tailgate
@@ -57,10 +67,10 @@ Last Update: 2020-11-30
 ## Model 3 Electric Tailgate
 ```
 Version:
-- 263/305 (v1)
+- 263/305P (v1)
 - 298/321 (v2)
-- 501 (MARK 2.5)
-Last Update: 2021-06-01
+- 501/533 (MARK 2.5)
+Last Update: 2021-08-23
 ```
 
 ## Software Update
