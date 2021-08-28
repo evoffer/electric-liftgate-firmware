@@ -44,8 +44,8 @@ Last Update: 2021-04-15
 ```
 Version:
 - F16i (MARK 4.0)
-- F25i (MARK 4.1)
-Last Update: 2021-04-15
+- F30 (MARK 4.1)
+Last Update: 2021-08-29
 ```
 
 
@@ -53,8 +53,8 @@ Last Update: 2021-04-15
 ```
 Version:
 - F15i (MARK 3.0 / 4.0)
-- F28 (MARK 4.1)
-Last Update: 2021-08-23
+- F31 (MARK 4.1)
+Last Update: 2021-08-29
 ```
 
 ## Model S Electric Tailgate
