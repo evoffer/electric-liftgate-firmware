@@ -49,7 +49,6 @@ Version:
 Last Update: 2021-09-13
 ```
 
-
 ## Model Y Electric Frunk
 ```
 Version:
@@ -71,8 +70,8 @@ Last Update: 2020-11-30
 Version:
 - 263/305P (v1)
 - 298/321 (v2)
-- 501/533 (MARK 2.5)
-Last Update: 2021-08-23
+- 502/572 (MARK 2.5)
+Last Update: 2021-09-15
 ```
 
 ## Software Update
