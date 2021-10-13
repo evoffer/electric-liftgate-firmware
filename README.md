@@ -2,7 +2,7 @@
 
 Please contact Tech Support if you are not sure which firmware you should flash.
 
-## Model S Electric Frunk (2012-2016/03 RWD)
+## Model S Electric Frunk (Variant A)
 ```
 Version:
 - 360 (v2)
@@ -11,7 +11,7 @@ Version:
 Last Update: 2021-04-15
 ```
 
-## Model S Electric Frunk (2012-2016/03 AWD or 2016/04-2021/01)
+## Model S Electric Frunk (Variant B)
 ```
 Version:
 - 361 (v2)
@@ -20,7 +20,7 @@ Version:
 Last Update: 2021-04-15
 ```
 
-## Model X Electric Frunk
+## Model X Electric Frunk (Variant A)
 ```
 Version:
 - 293A (v2)
@@ -29,18 +29,19 @@ Version:
 Last Update: 2021-04-15
 ```
 
-## Model 3 Electric Frunk (2018-2020/09)
+## Model 3 Electric Frunk (Variant A)
 ```
 Version:
 - 330 (v2 Box v17x3 - Without Touch Screen Close)
 - 337A (v2 Box v17x3 - With Touch Screen Close) *Wire Mod is needed
 - 337 (v2 Box v17x4)
 - F14i (MARK 3.0)
-- F24i (MARK 3.1)
-Last Update: 2021-04-15
+- F26 (MARK 3.1 Kit Purchased Before 2020/10)
+- F24i (MARK 3.1 Kit Purchased In or After 2020/10)
+Last Update: 2021-10-13
 ```
 
-## Model 3 Electric Frunk (2020/10-2021/06)
+## Model 3 Electric Frunk (Variant B)
 ```
 Version:
 - F16i (MARK 4.0)
@@ -52,10 +53,10 @@ Last Update: 2021-09-13
 ## Model Y Electric Frunk
 ```
 Version:
-- F15i (MARK 3.0 / 4.0)
+- F15C (MARK 3.0 / 4.0)
 - F28 (MARK 4.1 box v1500)
 - F3105 (MARK 4.1 box v1501)
-Last Update: 2021-09-27
+Last Update: 2021-10-13
 ```
 
 ## Model S Electric Tailgate
@@ -68,9 +69,12 @@ Last Update: 2020-11-30
 ## Model 3 Electric Tailgate
 ```
 Version:
-- 263/305P (v1)
-- 298/321 (v2)
-- 502/572 (MARK 2.5)
+- 263 (v1 Kit Purchased Before 2019/07)
+- 305P (v1 Kit Purchased In or After 2019/07)
+- 298 (v2 Kit Purchased Before 2020/02)
+- 321 (v2 Kit Purchased In or After 2020/02)
+- 502 (MARK 2.5 Kit Purchased Before 2021/07)
+- 572 (MARK 2.5 Kit Purchased In or After 2021/07)
 Last Update: 2021-09-15
 ```
 
