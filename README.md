@@ -36,9 +36,11 @@ Version:
 - 337A (v2 Box v17x3 - With Touch Screen Close) *Wire Mod is needed
 - 337 (v2 Box v17x4)
 - F14i (MARK 3.0)
-- F26 (MARK 3.1 Kit Purchased Before 2020/10)
-- F24i (MARK 3.1 Kit Purchased In or After 2020/10)
-Last Update: 2021-10-13
+- F26 (MARK 3.1 box v1500 Kit box v1500 Purchased Before 2020/10)
+- F24i (MARK 3.1 box v1500 Kit Purchased In or After 2020/10)
+- F351 (MARK 3.1 box v210 Kit Purchased In or After 2020/10)
+- F35 (MARK 4.1 box v210)
+Last Update: 2021-10-30
 ```
 
 ## [Model 3 Electric Frunk (Variant B)](https://evoffer.com/product/model-3-electric-frunk/)
@@ -47,7 +49,8 @@ Version:
 - F16i (MARK 4.0)
 - F29 (MARK 4.1 box v1500)
 - F3007 (MARK 4.1 box v1501)
-Last Update: 2021-09-13
+- F30 (MARK 4.1 box v210)
+Last Update: 2021-10-30
 ```
 
 ## [Model Y Electric Frunk](https://evoffer.com/product/model-y-electric-frunk/)
@@ -56,7 +59,8 @@ Version:
 - F15C (MARK 3.0 / 4.0)
 - F28 (MARK 4.1 box v1500)
 - F3105 (MARK 4.1 box v1501)
-Last Update: 2021-10-13
+- F33 (MARK 4.1 box v210)
+Last Update: 2021-10-30
 ```
 
 ## [Model S Electric Tailgate](https://evoffer.com/product/model-s-electric-tailgate/)
@@ -73,9 +77,9 @@ Version:
 - 305P (v1 Kit Purchased In or After 2019/07)
 - 298 (v2 Kit Purchased Before 2020/02)
 - 321 (v2 Kit Purchased In or After 2020/02)
-- 502 (MARK 2.5 Kit Purchased Before 2021/07)
-- 572 (MARK 2.5 Kit Purchased In or After 2021/07)
-Last Update: 2021-09-15
+- 686A (MARK 2.5 Kit Purchased Before 2021/07)
+- 686B (MARK 2.5 Kit Purchased In or After 2021/07)
+Last Update: 2021-10-30
 ```
 
 ## Software Update
