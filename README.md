@@ -77,9 +77,9 @@ Version:
 - 305P (v1 Kit Purchased In or After 2019/07)
 - 298 (v2 Kit Purchased Before 2020/02)
 - 321 (v2 Kit Purchased In or After 2020/02)
-- 686A (MARK 2.5 Kit Purchased Before 2021/07)
+- 502W (MARK 2.5 Kit Purchased Before 2021/07)
 - 686B (MARK 2.5 Kit Purchased In or After 2021/07)
-Last Update: 2021-10-30
+Last Update: 2021-11-11
 ```
 
 ## Software Update
