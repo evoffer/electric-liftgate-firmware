@@ -3,24 +3,26 @@
 Please contact Tech Support if you are not sure which firmware you should flash.
 
 ## [Model S Electric Frunk](https://evoffer.com/product/model-s-electric-frunk/)
-| Version | Hardware | Variant A | Variant B |
-| --- | --- | --- | --- |
-| v2 | Silver casing ECU | 360 | 361 |
-| MARK 3.0 | Basic waterproof ECU | F11 | F18 |
-| MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire | F23 | F22 |
-| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire | F23 | F22 |
+| Version | Hardware | Variant A | Variant B | Variant C |
+| --- | --- | --- | --- | --- |
+| v2 | Silver casing ECU | 360 | 361 | / |
+| MARK 3.0 | Basic waterproof ECU | F11 | F18 | / |
+| MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire | F23 | F22 | / |
+| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire | F23 | F22 | / |
+| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire | / | Coming Soon | Coming Soon |
 
 ```
 Last Update: 2021-04-15
 ```
 
 ## [Model X Electric Frunk](https://evoffer.com/product/model-x-electric-frunk/)
-Version | Hardware | Variant A |
-| --- | --- | --- |
-| v2 | Silver casing ECU | 293A |
-| MARK 3.0 | Basic waterproof ECU | F17 |
-| MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire | F21 |
-| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire | F21 |
+Version | Hardware | Variant A | Variant B |
+| --- | --- | --- | --- |
+| v2 | Silver casing ECU | 293A | / |
+| MARK 3.0 | Basic waterproof ECU | F17 | / |
+| MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire | F21 | / |
+| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire | F21 | / |
+| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire | Coming Soon | Coming Soon |
 
 ```
 Last Update: 2021-04-15
@@ -57,7 +59,7 @@ Last Update: 2022-01-18
 
 ## [Model S Electric Tailgate](https://evoffer.com/product/model-s-electric-tailgate/)
 | Version | All Variants |
-| -------- | --------- |
+| --- | --- |
 | v2 | 189 |
 
 ```
@@ -66,7 +68,7 @@ Last Update: 2020-11-30
 
 ## [Model 3 Electric Tailgate](https://evoffer.com/product/model-3-electric-tailgate/)
 | Version | All Variants |
-| -------- | --------- |
+| --- | --- |
 | v1 | 263 (purchased before 2019/07)<br>305P (purchased after 2019/07) |
 | v2 | 298 (purchased before 2020/02)<br>321 (purchased after 2020/02) |
 | MARK 2.5 | 502W (purchased before 2021/07)<br>686B (purchased after 2021/07) |
