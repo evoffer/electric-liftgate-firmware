@@ -47,10 +47,10 @@ Last Update: 2022-01-18
 ## [Model Y Electric Frunk](https://evoffer.com/product/model-y-electric-frunk/)
 | Version | Hardware | All Variants |
 | --- | --- | --- |
-| MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>2-section strut | F15C |
-| MARK 4.0 | Basic waterproof ECU<br>Landing Check<br>4-pin signal wire<br>silicon casing strut | F15C |
-| MARK 4.1 | Advanced waterproof ECU<br>Landing Check<br>4-pin signal wire<br>silicon casing strut | F28 (Box v1500)<br>F3105 (Box v1501)<br>F33 (Box v210) |
-| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>silicon casing strut | F41 |
+| MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>Silicon casing strut | F15C |
+| MARK 4.0 | Basic waterproof ECU<br>Landing Check<br>4-pin signal wire<br>Silicon casing strut | F15C |
+| MARK 4.1 | Advanced waterproof ECU<br>Landing Check<br>4-pin signal wire<br>Silicon casing strut | F28 (Box v1500)<br>F3105 (Box v1501)<br>F33 (Box v210) |
+| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>Silicon casing strut | F41 |
 | MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | F41 |
 
 ```
