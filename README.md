@@ -2,84 +2,78 @@
 
 Please contact Tech Support if you are not sure which firmware you should flash.
 
-## [Model S Electric Frunk (Variant A)](https://evoffer.com/product/model-s-electric-frunk/)
+## [Model S Electric Frunk](https://evoffer.com/product/model-s-electric-frunk/)
+| Version | Hardware | Variant A | Variant B |
+| --- | --- | --- | --- |
+| v2 | Silver casing ECU | 360 | 361 |
+| MARK 3.0 | Basic waterproof ECU | F11 | F18 |
+| MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire | F23 | F22 |
+| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire | F23 | F22 |
+
 ```
-Version:
-- 360 (v2)
-- F11 (MARK 3.0)
-- F23 (MARK 3.1)
 Last Update: 2021-04-15
 ```
 
-## [Model S Electric Frunk (Variant B)](https://evoffer.com/product/model-s-electric-frunk/)
+## [Model X Electric Frunk](https://evoffer.com/product/model-x-electric-frunk/)
+Version | Hardware | Variant A |
+| --- | --- | --- |
+| v2 | Silver casing ECU | 293A |
+| MARK 3.0 | Basic waterproof ECU | F17 |
+| MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire | F21 |
+| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire | F21 |
+
 ```
-Version:
-- 361 (v2)
-- F18 (MARK 3.0)
-- F22 (MARK 3.1)
 Last Update: 2021-04-15
 ```
 
-## [Model X Electric Frunk (Variant A)](https://evoffer.com/product/model-x-electric-frunk/)
-```
-Version:
-- 293A (v2)
-- F17 (MARK 3.0)
-- F21 (MARK 3.1)
-Last Update: 2021-04-15
-```
+## [Model 3 Electric Frunk](https://evoffer.com/product/model-3-electric-frunk/)
+| Version | Hardware | Variant A | Variant B | Variant C |
+| --- | --- | --- | --- | --- |
+| v2 | Silver casing ECU | 330 (Box v17x3 w/o touch screen close)<br>337A (Box v17x3 w/ touch screen close)<br>337 (Box v17x4 w/ touch screen close) | / | / |
+| MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>2-section strut | F14i | / | / |
+| MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire<br>2-section strut | F26 (Box v1500 purchased before 2020/10)<br>F24i (Box v1500 purchased after 2020/10)<br>F351 (Box v210 purchased after 2020/10) | / | / |
+| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F351 | / | / |
+| MARK 4.0 | Basic waterproof ECU<br>Landing Check<br>4-pin signal wire<br>2-section strut | / | F16i | / |
+| MARK 4.1 | Advanced waterproof ECU<br>Landing Check<br>4-pin signal wire<br>2-section strut | / | F29 (Box v1500)<br>F3007 (Box v1501)<br>F39 (Box v210) | F392 (Box v1501)<br>F39 (Box v210) |
+| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>2-section strut | / | F42 | F42 |
+| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | / | / | F42 |
 
-## [Model 3 Electric Frunk (Variant A)](https://evoffer.com/product/model-3-electric-frunk/)
 ```
-Version:
-- 330 (v2 Box v17x3 - Without Touch Screen Close)
-- 337A (v2 Box v17x3 - With Touch Screen Close) *Wire Mod is needed
-- 337 (v2 Box v17x4)
-- F14i (MARK 3.0)
-- F26 (MARK 3.1 box v1500 Kit box v1500 Purchased Before 2020/10)
-- F24i (MARK 3.1 box v1500 Kit Purchased In or After 2020/10)
-- F351 (MARK 3.1 box v210 Kit Purchased In or After 2020/10)
-- F35 (MARK 4.1 box v210)
-Last Update: 2021-10-30
-```
-
-## [Model 3 Electric Frunk (Variant B)](https://evoffer.com/product/model-3-electric-frunk/)
-```
-Version:
-- F16i (MARK 4.0)
-- F29 (MARK 4.1 box v1500)
-- F3007 (MARK 4.1 box v1501)
-- F30 (MARK 4.1 box v210)
-Last Update: 2021-10-30
+Last Update: 2022-01-18
 ```
 
 ## [Model Y Electric Frunk](https://evoffer.com/product/model-y-electric-frunk/)
+| Version | Hardware | All Variants |
+| --- | --- | --- |
+| MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>2-section strut | F15C |
+| MARK 4.0 | Basic waterproof ECU<br>Landing Check<br>4-pin signal wire<br>silicon casing strut | F15C |
+| MARK 4.1 | Advanced waterproof ECU<br>Landing Check<br>4-pin signal wire<br>silicon casing strut | F28 (Box v1500)<br>F3105 (Box v1501)<br>F33 (Box v210) |
+| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>silicon casing strut | F41 |
+| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | F41 |
+
 ```
-Version:
-- F15C (MARK 3.0 / 4.0)
-- F28 (MARK 4.1 box v1500)
-- F3105 (MARK 4.1 box v1501)
-- F33 (MARK 4.1 box v210)
-Last Update: 2021-10-30
+Last Update: 2022-01-18
 ```
 
 ## [Model S Electric Tailgate](https://evoffer.com/product/model-s-electric-tailgate/)
+| Version | All Variants |
+| -------- | --------- |
+| v2 | 189 |
+
 ```
-Version:
-- 189 (v2)
 Last Update: 2020-11-30
 ```
 
 ## [Model 3 Electric Tailgate](https://evoffer.com/product/model-3-electric-tailgate/)
+| Version | All Variants |
+| -------- | --------- |
+| v1 | 263 (purchased before 2019/07)<br>305P (purchased after 2019/07) |
+| v2 | 298 (purchased before 2020/02)<br>321 (purchased after 2020/02) |
+| MARK 2.5 | 502W (purchased before 2021/07)<br>686B (purchased after 2021/07) |
+| MARK 3.0 | A011 (config2004) |
+
 ```
-Version:
-- 263 (v1 Kit Purchased Before 2019/07)
-- 305P (v1 Kit Purchased In or After 2019/07)
-- 298 (v2 Kit Purchased Before 2020/02)
-- 321 (v2 Kit Purchased In or After 2020/02)
-- 502W (MARK 2.5 Kit Purchased Before 2021/07)
-- 686B (MARK 2.5 Kit Purchased In or After 2021/07)
-Last Update: 2021-11-11
+Last Update: 2022-01-18
 ```
 
 ## Software Update
