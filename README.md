@@ -89,9 +89,22 @@ Get the update file ready.
 Rename the file to `update.yst` and place it under the root of the microSD.
 Eject it from the card reader afterwards.
 
-### Step 3 - Flashing the Update [(YouTube Tutorial)](https://youtu.be/WVAIoss6fbk)
+### Step 3 - Flashing the Update
+*Procedure for older ECU design with firmware file only.* -
+[(YouTube Tutorial)](https://youtu.be/WVAIoss6fbk)
+
 Insert the microSD into the control unit.
 The red LED will be flashing rapidly.
+Wait until the LED becomes solid and eject the microSD.
+
+*New ECUs (v250+ for Electric Frunk; MARK 3.0+ for Model 3 Electric Tailgate) come with a new firmware system that contains two update files (firmware and config).* -
+[(YouTube Tutorial)](https://youtu.be/s2w4y5JVml8)
+
+To flash the `update.yst`, you need to disconnect the power of ECU for 30 seconds, insert the SD card and reconnect the power.
+The red LED will be flashing rapidly. Wait until the LED becomes solid and eject the microSD.
+
+To flash the `config.yx`, keep the ECU connecting to power and insert the SD card.
+The red LED will be flashing slowly.
 Wait until the LED becomes solid and eject the microSD.
 
 ### Complete! Test the System
