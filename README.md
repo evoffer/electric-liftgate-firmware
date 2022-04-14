@@ -39,7 +39,7 @@ Last Update: 2022-03-15
 | MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F351 | / | / |
 | MARK 4.0 | Basic waterproof ECU<br>Landing Check<br>4-pin signal wire<br>2-section strut | / | F16i | / |
 | MARK 4.1 | Advanced waterproof ECU<br>Landing Check<br>4-pin signal wire<br>2-section strut | / | F29 (Box v1500)<br>F3007 (Box v1501)<br>F39 (Box v21x) | F392 (Box v1501)<br>F39 (Box v21x) |
-| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>2-section strut | / | F42 (Box v21x)<br>config2013 (Box v25x) | F42 (Box v21x)<br>config2013 (Box v25x) |
+| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>2-section strut | / | F42 (Box v21x)<br>2013 (Box v25x) | F42 (Box v21x)<br>2013 (Box v25x) |
 
 ```
 Last Update: 2022-04-01
