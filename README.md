@@ -36,13 +36,13 @@ Last Update: 2022-03-15
 | v2 | Silver casing ECU | 330 (Box v17x3 w/o touch screen close)<br>337A (Box v17x3 w/ touch screen close)<br>337 (Box v17x4 w/ touch screen close) | / | / |
 | MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>2-section strut | F14i | / | / |
 | MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire<br>2-section strut | F26 (Purchased before 2020/10)<br>F351 (Purchased after 2020/10) | / | / |
-| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F351 | / | / |
+| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F351 (Box v21x)<br>F2010 (Box v25x) | / | / |
 | MARK 4.0 | Basic waterproof ECU<br>Landing Check<br>4-pin signal wire<br>2-section strut | / | F16i | / |
 | MARK 4.1 | Advanced waterproof ECU<br>Landing Check<br>4-pin signal wire<br>2-section strut | / | F29 (Box v1500)<br>F3007 (Box v1501)<br>F39 (Box v21x) | F392 (Box v1501)<br>F39 (Box v21x) |
-| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>2-section strut | / | F42 (Box v21x)<br>2013 (Box v25x) | F42 (Box v21x)<br>2013 (Box v25x) |
+| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>2-section strut | / | F42 (Box v21x)<br>F2013 (Box v25x) | F42 (Box v21x)<br>F2013 (Box v25x) |
 
 ```
-Last Update: 2022-04-01
+Last Update: 2022-04-30
 ```
 
 ## [Model Y Electric Frunk](https://evoffer.com/product/model-y-electric-frunk/)
@@ -51,8 +51,8 @@ Last Update: 2022-04-01
 | MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>Silicon casing strut | F15C |
 | MARK 4.0 | Basic waterproof ECU<br>Landing Check<br>4-pin signal wire<br>Silicon casing strut | F15C |
 | MARK 4.1 | Advanced waterproof ECU<br>Landing Check<br>4-pin signal wire<br>Silicon casing strut | F28 (Box v1500)<br>F3105 (Box v1501)<br>F33 (Box v21x) |
-| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>Silicon casing strut | F41 (Box v21x)<br>2017 (Box v25x) |
-| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | F41 (Box v21x)<br>2017 (Box v25x) |
+| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>Silicon casing strut | F41 (Box v21x)<br>F2017 (Box v25x) |
+| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | F41 (Box v21x)<br>F2017 (Box v25x) |
 
 ```
 Last Update: 2022-04-01
