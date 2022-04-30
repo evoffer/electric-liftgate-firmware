@@ -9,7 +9,6 @@ Please contact Tech Support if you are not sure which firmware you should flash.
 | MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>2-section strut | F11 | F18 | / |
 | MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire<br>2-section strut | F23 | F22 | / |
 | MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F23 | F22 | / |
-| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>2-section strut | / | Coming Soon | / |
 | MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | / | / | F46 |
 
 ```
@@ -23,8 +22,7 @@ Version | Hardware | Variant A | Variant B |
 | MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>2-section strut | F17 | / |
 | MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire<br>2-section strut | F21 | / |
 | MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F44 | / |
-| MARK 4.2 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>2-section strut | / | F47 |
-| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | Coming Soon | F47 |
+| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | / | F47 |
 
 ```
 Last Update: 2022-03-15
