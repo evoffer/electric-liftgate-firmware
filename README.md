@@ -8,11 +8,11 @@ Please contact Tech Support if you are not sure which firmware you should flash.
 | v2 | Silver casing ECU | 360 | 361 | / |
 | MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>2-section strut | F11 | F18 | / |
 | MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire<br>2-section strut | F23 | F22 | / |
-| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F23 | F22 | / |
-| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | / | / | F46 |
+| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F23 | F22 (Box v21x)<br>F2018 (Box v25x) | / |
+| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | / | / | F46 (Box v21x)<br>F2021 (Box v25x) |
 
 ```
-Last Update: 2022-03-15
+Last Update: 2022-05-08
 ```
 
 ## [Model X Electric Frunk](https://evoffer.com/product/model-x-electric-frunk/)
@@ -20,18 +20,18 @@ Version | Hardware | Variant A | Variant B |
 | --- | --- | --- | --- |
 | v2 | Silver casing ECU | 293A | / |
 | MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>2-section strut | F17 | / |
-| MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire<br>2-section strut | F21 | / |
-| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F44 | / |
-| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | / | F47 |
+| MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire<br>2-section strut | F44 | / |
+| MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F44 (Box v21x)<br>F2019 (Box v25x) | / |
+| MARK 5.0 | Advanced waterproof ECU<br>Landing Check<br>6-pin signal wire<br>3-section strut | / | F47 (Box v21x)<br>F2020 (Box v25x) |
 
 ```
-Last Update: 2022-03-15
+Last Update: 2022-05-08
 ```
 
 ## [Model 3 Electric Frunk](https://evoffer.com/product/model-3-electric-frunk/)
 | Version | Hardware | Variant A | Variant B | Variant C |
 | --- | --- | --- | --- | --- |
-| v2 | Silver casing ECU | 330 (Box v17x3 w/o touch screen close)<br>337A (Box v17x3 w/ touch screen close)<br>337 (Box v17x4 w/ touch screen close) | / | / |
+| v2 | Silver casing ECU | 330 (Box v17x3 w/o touch screen close)<br>337A (Box v17x3 w/ touch screen close)<br>337 (Box v17x4) | / | / |
 | MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>2-section strut | F14i | / | / |
 | MARK 3.1 | Advanced waterproof ECU<br>4-pin signal wire<br>2-section strut | F26 (Purchased before 2020/10)<br>F351 (Purchased after 2020/10) | / | / |
 | MARK 3.2 | Advanced waterproof ECU<br>6-pin signal wire<br>2-section strut | F351 (Box v21x)<br>F2010 (Box v25x) | / | / |
