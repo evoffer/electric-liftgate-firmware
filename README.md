@@ -71,10 +71,10 @@ Last Update: 2020-11-30
 | v1 | 263 (purchased before 2019/07)<br>305P (purchased after 2019/07) |
 | v2 | 298 (purchased before 2020/02)<br>321 (purchased after 2020/02) |
 | MARK 2.5 | 502W (purchased before 2021/07)<br>686B (purchased after 2021/07) |
-| MARK 3.0 | A2018 |
+| MARK 3.0 | A20195 |
 
 ```
-Last Update: 2022-07-01
+Last Update: 2022-08-08
 ```
 
 ## Software Update
