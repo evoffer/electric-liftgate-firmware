@@ -5,9 +5,9 @@ Please contact Tech Support if you are not sure which firmware you should flash.
 ## Distinguish your hardware version - Electric Frunk System
 | Version | Hardware |
 | --- | --- |
-| MARK 3.0<br>MARK 4.0 |  <center>Basic waterproof ECU<br>![Basic Waterproof ECU](/images/frunk_waterproof_ecu_1.png)</center> |
-| MARK 3.1/3.2<br>MARK 4.1/4.2<br>MARK 5.0/5.1 | <center>Advanced waterproof ECU<br>![Advanced Waterproof ECU](/images/frunk_waterproof_ecu_2.png)</center>  |
-| MARK 5.2 | <center>Slim waterproof ECU<br>![Advanced Waterproof ECU 2](/images/frunk_waterproof_ecu_3.png)</center> |
+| MARK 3.0<br>MARK 4.0 |  <center>Basic waterproof ECU</center><br>![Basic Waterproof ECU](/images/frunk_waterproof_ecu_1.png) |
+| MARK 3.1/3.2<br>MARK 4.1/4.2<br>MARK 5.0/5.1 | <center>Advanced waterproof ECU (v1500/v1501/v210/v215/v250/v251/v2510/v2520)</center><br>![Advanced Waterproof ECU](/images/frunk_waterproof_ecu_2.png)  |
+| MARK 5.2 | <center>Slim waterproof ECU (v300)</center><br>![Advanced Waterproof ECU 2](/images/frunk_waterproof_ecu_3.png) |
 
 ## [Model S Electric Frunk](https://evoffer.com/product/model-s-electric-frunk/)
 | Version | Hardware | Variant A | Variant B | Variant C |
