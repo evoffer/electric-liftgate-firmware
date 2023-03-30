@@ -67,7 +67,7 @@ Last Update: 2023-03-30
 | --- | --- | --- |
 | MARK 3.0 | Basic waterproof ECU<br>4-pin signal wire<br>Silicon casing strut | F15C |
 | MARK 4.0 | Basic waterproof ECU<br>4-pin signal wire<br>Silicon casing strut<br>Landing check | F15C |
-| MARK 4.1 | Advanced waterproof ECU<br>4-pin signal wire<br>Silicon casing strut<br>Landing check | F3105 (ECU v1501)<br>F33T (ECU v1500/v21x) |
+| MARK 4.1 | Advanced waterproof ECU<br>4-pin signal wire<br>Silicon casing strut<br>Landing check | F28 (ECU v1500)<br>F3105 (ECU v1501)<br>F33T (ECU v21x) |
 | MARK 4.2 | Advanced waterproof ECU<br>6-pin signal wire<br>Silicon casing strut<br>Landing check | F41T (ECU v21x)<br>F2017 (ECU v25x) |
 | MARK 5.0x | Advanced waterproof ECU<br>6-pin signal wire<br>3-section strut<br>Landing check | F41T (ECU v21x) |
 | MARK 5.1x | Advanced waterproof ECU<br>6-pin signal wire<br>3-section strut<br>Landing check | F30247 + F2017 (ECU v25x) |
