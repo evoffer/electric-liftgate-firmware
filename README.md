@@ -72,6 +72,7 @@ Last Update: 2023-04-25
 | MARK 5.0x | Advanced waterproof ECU<br>6-pin signal wire<br>3-section strut<br>Landing check | F41T (ECU v21x) |
 | MARK 5.1x | Advanced waterproof ECU<br>6-pin signal wire<br>3-section strut<br>Landing check | F30247 + F2017 (ECU v25x) |
 | MARK 5.2x | Slim waterproof ECU<br>3-section strut<br>Landing check | F30247 + F2017 (ECU v300) |
+| MARK 6.0x | Slim waterproof ECU<br>3-section strut<br>Landing check<br>BLE Connectivity | F30247 + F2017 (ECU v301) |
 
 ```
 Last Update: 2023-03-30
