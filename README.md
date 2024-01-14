@@ -93,10 +93,12 @@ Last Update: 2020-11-30
 | v1 | 263 (purchased before 2019/07)<br>305P (purchased after 2019/07) |
 | v2 | 298 (purchased before 2020/02)<br>321 (purchased after 2020/02) |
 | MARK 2.5 | 502W2 (purchased before 2021/07)<br>686B2 (purchased after 2021/07) |
-| MARK 3.0 | A20195 |
+| MARK 3.0 | A20195 / A20302* |
+
+\* A20302 is designed for OEM Powered Trunk Feature Enabled. If you have Toolbox access or your local Tesla Service are happy to do that for you, you can change the `powerLiftgateType` to `2` and enable the feature, just like it's factory-installed.
 
 ```
-Last Update: 2022-08-11
+Last Update: 2024-01-14
 ```
 
 ## Software Update
