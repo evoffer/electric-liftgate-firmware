@@ -95,7 +95,7 @@ Last Update: 2020-11-30
 | MARK 2.5 | 502W2 (purchased before 2021/07)<br>686B2 (purchased after 2021/07) |
 | MARK 3.0 | A20195 / A20302* |
 
-\* A20302 is designed for OEM Powered Trunk Feature Enabled. If you have Toolbox access or your local Tesla Service are happy to do that for you, you can change the `powerLiftgateType` to `2` and enable the feature, just like it's factory-installed.
+\* A20302 is designed for OEM Powered Trunk Feature Enabled. If you have Toolbox access or your local Tesla Service are happy to do that for you, you can change the `powerLiftgateType` to `TESLA_REV1` (Powered liftgate installed) and enable the feature, just like it's factory-installed.
 
 ```
 Last Update: 2024-01-14
